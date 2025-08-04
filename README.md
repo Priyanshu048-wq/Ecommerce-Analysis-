@@ -1,4 +1,4 @@
-## 🛒 eCommerce Sales Data Analysis 📊
+## 🛒 Ecommerce Sales Data Analysis 📊
 
 This project involves an in-depth analysis of an eCommerce dataset stored in a MySQL database using Python. The primary objective is to extract meaningful business insights from raw transactional data to guide business decisions and highlight key sales trends.
 
